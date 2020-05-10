@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<defs>
+		<image width="81" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAwAgMAAAAUSX5aAAAAAXNSR0IB2cksfwAAAAxQTFRF////////////////9aUOcwAAAAR0Uk5T/wDNM6wSqH4AAAA8SURBVHicY2AYBUMDiIaCgAORoiCMIRrCwMBKoaho6PAVZWjAKuqATZQxgGi12OOCpNjEJkp18B8LOAAAl6o3c2zk4X0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none } 
+	</style>
+	<use id="maxresdefault" href="#img1" x="-29" y="-19" />
+	<path id="Layer" class="shp0" d="M0 0L24 0L24 24L0 24L0 0Z" />
+</svg>
